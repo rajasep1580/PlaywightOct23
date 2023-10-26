@@ -1,4 +1,5 @@
 import {test,expect} from "@playwright/test"
+//https://www.lambdatest.com/learning-hub/handling-frames-and-windows-in-playwright
 test(`Window HAndles`,async({page,context,browser})=>{
 page.goto("https://www.leafground.com/window.xhtml");
 const windowpromis=context.waitForEvent("page");

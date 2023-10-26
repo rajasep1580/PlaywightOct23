@@ -12,6 +12,7 @@ test(`Test Salesforce login `,async({page})=>{
     await page.locator(loginbutton).click();
     //page.waitForTimeout(60000);
 const pagehomeurl=page.url();
+page.waitForEvent
 page.waitForNavigation();
  expect(pagehomeurl).toContain("https://testleafcom-f-dev-ed.develop.lightning.force.com/lightning/setup/SetupOneHome/home")
  expect(page.url).toEqual("https://testleafcom-f-dev-ed.develop.lightning.force.com/lightning/setup/SetupOneHome/home")

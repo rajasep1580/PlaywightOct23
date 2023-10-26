@@ -1,0 +1,75 @@
+{
+  "cookies": [
+    {
+      "name": "glide_user_route",
+      "value": "glide.a0baeb8d84d4fdd1ace4f4f4a1f8839b",
+      "domain": "dev128670.service-now.com",
+      "path": "/",
+      "expires": 1732874458.764789,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "BIGipServerpool_dev128670",
+      "value": "965195018.46910.0000",
+      "domain": "dev128670.service-now.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__CJ_g_startTime",
+      "value": "%221698314502237%22",
+      "domain": "dev128670.service-now.com",
+      "path": "/",
+      "expires": 1698318102,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "A90E152E5E79DCFE46D068B71314BC65",
+      "domain": "dev128670.service-now.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "glide_user_activity",
+      "value": "U0N2M18xOno1dXp4WGFveSs4RTdJRGhJOExkMmNzOFNzMnduZ050L0RVSUE2SXhUODg9OkVYbzdWUnkydWJQRWl3dExLR1dva05USVhpZnQ2L0NBN2NuSHlrMUVHL0U9",
+      "domain": "dev128670.service-now.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "glide_session_store",
+      "value": "B9C324FE97CAF110580D37971153AF30",
+      "domain": "dev128670.service-now.com",
+      "path": "/",
+      "expires": 1698319904.013145,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://dev128670.service-now.com",
+      "localStorage": [
+        {
+          "name": "now-icon-cache",
+          "value": "{}"
+        }
+      ]
+    }
+  ]
+}
